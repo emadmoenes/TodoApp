@@ -1,0 +1,11 @@
+├── src/
+│   ├── components/
+│   │   └── TaskInput.js
+│   ├── contexts/
+│   │   └── AuthContext.js
+│   ├── screens/
+│   │   ├── LoginScreen.js
+│   │   ├── SignupScreen.js
+│   │   └── TaskScreen.js
+│   └── utils/
+│       └── firebaseService.js
